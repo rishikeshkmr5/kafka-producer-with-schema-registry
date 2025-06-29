@@ -50,11 +50,11 @@ It provides a fully working setup using:
 1. Clone the project:
 
 ```bash
-git clone https://github.com/your-user/your-kafka-avro-app.git
-cd your-kafka-avro-app
+git clone https://github.com/rishikeshkmr5/kafka-producer-with-schema-registry.git
+cd kafka-producer-with-schema-registry
 ```
 
-2. Start Kafka, Zookeeper, Schema Registry:
+2. Start Kafka, Zookeeper, Schema Registry. Make sure you had Docker Destop installed
 
 ```bash
 docker-compose up -d
